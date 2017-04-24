@@ -4,7 +4,7 @@ default_versions:
 - name: bower
   version: 1.8.0
 - name: dotnet
-  version: 1.0.1
+  version: 1.0.0-preview2-003156
 - name: node
   version: 6.10.1
 url_to_dependency_map:
